@@ -1,9 +1,7 @@
-package com.github.civcraft.PLUGIN_NAME_REPLACE_ME.commands;
+package com.github.civcraft.visibleore.commands;
 import vg.civcraft.mc.civmodcore.command.CommandHandler;
 
-public class CustomCommandHandler extends CommandHandler {
-    
-    //renaming this class to avoid conflicts with other plugins made based on this dummy is recommended, but not mandatory
+public class VisibleOreCommandHandler extends CommandHandler {
 
     @Override
     public void registerCommands() {
